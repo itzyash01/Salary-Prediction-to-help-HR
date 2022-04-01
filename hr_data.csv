@@ -1,0 +1,9 @@
+experience,test_score(out of 10),interview_score(out of 10),cgpa(out of 10),salary($)
+,8,9,9,50000
+,8,6,8,45000
+five,6,7,8,60000
+two,10,10,10,65000
+seven,9,6,9,70000
+three,7,10,9,62000
+ten,,7,7,72000
+eleven,7,8,8,80000
